@@ -1,8 +1,8 @@
-import Button from "@/components/Button/Button";
-import Card from "@/components/Card/Card";
-import Counter from "@/components/Counter/Counter";
-import UserList from "@/components/UserList/UserList";
-import Input from "@/components/Input/Input";
+import Button from "../components/Button/Button";
+import Card from "../components/Card/Card";
+import Counter from "../components/Counter/Counter";
+import UserList from "../components/UserList/UserList";
+import Input from "../components/Input/Input";
 
 export default function Home() {
   return (
