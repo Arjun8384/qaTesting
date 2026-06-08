@@ -10,6 +10,8 @@ The testing suite was designed following modern frontend testing practices, ensu
 
 ---
 
+## Project live link: https://testforgedashboard.netlify.app/
+
 ## Project Objectives
 
 The project was developed to achieve the following goals:
