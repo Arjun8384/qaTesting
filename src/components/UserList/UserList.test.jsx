@@ -32,7 +32,7 @@ describe("UserList Component", () => {
     fetchUsers.mockResolvedValue([
       {
         id: 1,
-        name: "Aaru",
+        name: "Arjun",
       },
       {
         id: 2,
@@ -43,7 +43,7 @@ describe("UserList Component", () => {
     render(<UserList />);
 
     expect(
-      await screen.findByText("Aaru")
+      await screen.findByText("Arjun")
     ).toBeInTheDocument();
 
     expect(
